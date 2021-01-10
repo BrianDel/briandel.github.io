@@ -13,7 +13,7 @@
     "clean": "gatsby clean",
     "build": "gatsby clean && gatsby build",
     "start": "gatsby clean && gatsby develop",
-    "deploy:gh": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_SECRET@github.com/BrianDel/briandel.github.io.git",
     "deploy:netlify": "gatsby build --prefix-paths && netlify deploy --prod --dir=public",
     "lint": "tslint --project .",
     "lint:fix": "tslint --fix --project .",
