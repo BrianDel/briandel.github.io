@@ -1,0 +1,284 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: same-origin
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-b0556ce5127c1a3e2490.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.e6fae46a7fbb9348dc70.css
+  Cache-Control: public, max-age=31536000, immutable
+/styles-e9d24b1846c7d6eb9685.js
+  Cache-Control: public, max-age=31536000, immutable
+/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-blog-tsx-0b0b52f8afc21444083a.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-all-category-tsx-b7d48c85d38a814666f8.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-category-tsx-b76228b6fd8467ee9e1d.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-all-tag-tsx-fb8a998897ec7dd6ff4b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-tag-tsx-6c14128e85e3af10aa50.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-tsx-be89f09f1031a7db6e32.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-404-tsx-8c4ef35381cd96e6ac5b.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-contact-tsx-1b07c8073a82f27f0cea.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-pages-index-tsx-a659afca457fecc0671a.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-d01d802c1f4085e459b8.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-5a1b297d9adac74fe592.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-4f6c994876b25e26d155.js
+  Cache-Control: public, max-age=31536000, immutable
+/static/*
+  Cache-Control: public, max-age=31536000, immutable
+/sw.js
+  Cache-Control: no-cache
+/briandel/offline-plugin-app-shell-fallback/
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/component---cache-caches-gatsby-plugin-offline-app-shell-js-b0556ce5127c1a3e2490.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/blog
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-blog-tsx-0b0b52f8afc21444083a.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/blog/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/blog/2
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-blog-tsx-0b0b52f8afc21444083a.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/blog/2/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/categories
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-all-category-tsx-b7d48c85d38a814666f8.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/categories/coding
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-category-tsx-b76228b6fd8467ee9e1d.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/categories/coding/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/categories/general
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-category-tsx-b76228b6fd8467ee9e1d.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/categories/general/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/categories/music
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-category-tsx-b76228b6fd8467ee9e1d.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/categories/music/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/categories/technology
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-category-tsx-b76228b6fd8467ee9e1d.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/categories/technology/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/tags
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-all-tag-tsx-fb8a998897ec7dd6ff4b.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/tags/author
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/tags/author/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/tags/book
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/tags/book/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/tags/coding
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/tags/coding/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/tags/music
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/tags/music/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/tags/technology
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/tags/technology/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/tags/gatsby
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/tags/gatsby/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/tags/graphql
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/tags/graphql/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/tags/react
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/tags/react/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/tags/typescript
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-tag-tsx-6c14128e85e3af10aa50.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/tags/typescript/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/blog/coding-is-fun-isnt-it
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-post-tsx-be89f09f1031a7db6e32.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/blog/coding-is-fun-isnt-it/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/blog/listen-to-music-to-enjoy-coding
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-post-tsx-be89f09f1031a7db6e32.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/blog/listen-to-music-to-enjoy-coding/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/blog/a-title-must-be-meaningful
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-post-tsx-be89f09f1031a7db6e32.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/blog/a-title-must-be-meaningful/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/blog/alper-musig-clare-is-a-create-author
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-post-tsx-be89f09f1031a7db6e32.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/blog/alper-musig-clare-is-a-create-author/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/blog/test-title-for-this-is-a-paragraph
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-templates-post-tsx-be89f09f1031a7db6e32.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/blog/test-title-for-this-is-a-paragraph/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/404/
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-pages-404-tsx-8c4ef35381cd96e6ac5b.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/contact/
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-pages-contact-tsx-1b07c8073a82f27f0cea.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/contact/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-pages-index-tsx-a659afca457fecc0671a.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+/briandel/404.html
+  Link: </briandel/webpack-runtime-d01d802c1f4085e459b8.js>; rel=preload; as=script
+  Link: </briandel/framework-5a1b297d9adac74fe592.js>; rel=preload; as=script
+  Link: </briandel/app-4f6c994876b25e26d155.js>; rel=preload; as=script
+  Link: </briandel/styles-e9d24b1846c7d6eb9685.js>; rel=preload; as=script
+  Link: </briandel/102dd505d877350578a7e7497b0704b624b1bad0-81990f882aca832ae3f0.js>; rel=preload; as=script
+  Link: </briandel/component---src-pages-404-tsx-8c4ef35381cd96e6ac5b.js>; rel=preload; as=script
+  Link: </briandel/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </briandel/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
