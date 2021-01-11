@@ -1,5 +1,5 @@
 export default {
-  pathPrefix: 'briandel.github.io', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
+  pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "portfolio"
 
   siteTitle: 'Typescript Power Blog', // Navigation and Site Title
   siteTitleAlt: 'Typescript Power Blog - Gatsby Starter', // Alternative Site title for SEO
