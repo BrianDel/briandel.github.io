@@ -2,7 +2,7 @@
   "name": "briandel.github.io",
   "description": "gatsyby blog template with typescript and tslint",
   "version": "1.1.0",
-  "author": "Majid Hajian ( mhadaily@gmail.com )",
+  "author": "Brian",
   "keywords": [
     "gatsby, typescript",
     "blog"
@@ -13,8 +13,7 @@
     "clean": "gatsby clean",
     "build": "gatsby clean && gatsby build",
     "start": "gatsby clean && gatsby develop",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_SECRET@github.com/BrianDel/briandel.github.io.git",
-    "deploy:netlify": "gatsby build --prefix-paths && netlify deploy --prod --dir=public",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/BrianDel/briandel.github.io.git",
     "lint": "tslint --project .",
     "lint:fix": "tslint --fix --project .",
     "lint:ts": "tslint --fix 'src/**/*.{ts,tsx}' -p tsconfig.json",
