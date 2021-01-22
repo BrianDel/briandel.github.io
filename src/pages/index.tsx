@@ -90,7 +90,8 @@ export default ({ data }: PageProps) => {
               <p>
                 <h3>Zoom Video</h3>
                 Join Zoom party on your first device<br/>
-                <a target="_blank" href="https://us04web.zoom.us/j/74788315752?pwd=cE1HaURtUmtVRGRsby85V3d4a1lJQT09">Click here to join Zoom meeting</a><br/>
+                You will receive the PIN with the text you received.<br/>
+                <a href="https://zoom.us/join" target="_blank">Click here to join Zoom</a>
                 <br/>
               </p>
               <p>
